@@ -1,10 +1,9 @@
 
 ### Hi there 👋
-
-##### Hi, I am Thanushan Vijayaratnam
-##### Passionate Fullstack Developer 
+Hi, I am Thanushan Vijayaratnam ,
+Passionate Fullstack Developer 
 <br>
-Living ==> Learning ==> Developing
+#### Living ==> Learning ==> Developing
 <br>
 
 
