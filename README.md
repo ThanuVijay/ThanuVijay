@@ -19,7 +19,6 @@ Passionate Fullstack Developer
   <img title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img title="SQLite" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img title="TailwindCSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img title="Nextjs" width="30px" src="https://imgur.com/hPofQoP.png" />                                 
   <img title="bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>                    
   <img title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
